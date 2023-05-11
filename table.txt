@@ -1,0 +1,51 @@
+Web Tables 
+
+-Table: rows and columns: square boxes where we put data separately.
+-Web Table is the same thing but on the web page.
+* <table> HTNL tag
+* <thread> Html tag used for header. Header is where we give naming for the columns 
+* <tbody> HTML tag used for the body. Body is where we have all the data for rows and colummns
+* <tr> HTML tag used for the rows. Table row
+* <td> HTML tag used for the cells. Table data
+<table> 
+	<thread>
+		<tr>
+			<th>Name</th>
+			<th>Age</th>
+			<th>City</th>
+		</tr>
+	</thread>
+
+	<tbody>
+		<tr>
+			<td>James</td>
+			<td>45</td>
+			<td>Chicago<td>
+		</tr>
+
+		<tr>
+			<td>Jennifer</td>
+			<td>35</td>
+			<td>London<td>
+		</tr>
+	<tbody>
+</table>
+
+
+Utility methods that can be useful for me to work with web tables.
+1. Create a method that accepts 2 integers for row and column 
+
+
+
+
+
+
+
+<div>
+	<h3>Hello</h3>
+	<p>Paragraph</p>
+</div>
+
+1. //div/p
+2. //h3[@id='hi']/../p
+3. //h3[.='Hello']
